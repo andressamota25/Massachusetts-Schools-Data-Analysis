@@ -174,5 +174,3 @@ Subqueries & Optimization: Used subqueries for complex data retrieval.
 
 This project was completed as part of my SQL learning journey, applying database querying techniques to real-world educational data.
 
-📌 Check out my portfolio: GitHub Profile📩 Let's connect: LinkedIn
-
